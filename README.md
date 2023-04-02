@@ -30,4 +30,16 @@ In this project, we will be following methodology mentioned below:
 Book Recommendation System - [Link](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 
 ## Instructions
-**To Do**
+In order to use the model. Follow the below steps.
+
+1. Clone the repository using the command below.
+```
+git clone https://github.com/Zummit-Work/ZAF202310_Book_Recommendation_Service
+```
+2. Install the requirements using command below.
+```
+pip install -r requirements.txt
+```
+3. Run the load_predict.py file to load the Book Recommender System.
+
+> **Note: The recommendation system only works for the books present in the dataset. In order to customize the model, please reach out to me @ shubhamwankar23@gmail.com**
