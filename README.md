@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZAF202310_Book_Recommendation_Service
 
 ## Overview
@@ -32,6 +31,3 @@ Book Recommendation System - [Link](https://www.kaggle.com/datasets/arashnic/boo
 
 ## Instructions
 **To Do**
-=======
-# ZAF202310_Book_Recommendation_Service
->>>>>>> parent of a0d4347 (Update README.md)
