@@ -1,4 +1,4 @@
-# Book_Recommendation_Service
+# Book Recommendation System
 
 ## Overview
 A book recommendation system is a type of recommendation system that uses data analysis and machine learning algorithms to provide personalized book recommendations to users. These systems can be used by online bookstores, libraries, and other organizations that provide book-related services to their users.
@@ -40,6 +40,6 @@ git clone https://github.com/shubhamwankar/Book_Recommendation_System
 ```
 pip install -r requirements.txt
 ```
-3. Run the load_predict.py file to load the Book Recommender System.
+3. Run the load_predict.py file to load the Book Recommendation System.
 
 > **Note: The recommendation system only works for the books present in the dataset. In order to customize the model, please reach out to me @ shubhamwankar23@gmail.com**
