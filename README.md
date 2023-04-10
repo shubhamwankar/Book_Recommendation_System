@@ -1,4 +1,4 @@
-# ZAF202310_Book_Recommendation_Service
+# Book_Recommendation_Service
 
 ## Overview
 A book recommendation system is a type of recommendation system that uses data analysis and machine learning algorithms to provide personalized book recommendations to users. These systems can be used by online bookstores, libraries, and other organizations that provide book-related services to their users.
@@ -34,7 +34,7 @@ In order to use the model. Follow the below steps.
 
 1. Clone the repository using the command below.
 ```
-git clone https://github.com/Zummit-Work/ZAF202310_Book_Recommendation_Service
+git clone https://github.com/shubhamwankar/Book_Recommendation_System
 ```
 2. Install the requirements using command below.
 ```
